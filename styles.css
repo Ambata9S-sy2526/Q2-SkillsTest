@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/0e05ffa9-25d2-4761-b1dd-73c606642ed7/Drone10+copy.jpg);
+}
+
+h2{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h6{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+    opacity: 90%;
+    size-adjust: 90px;
+    border-radius: 25px;
+    padding: 20px;
+    margin: auto;
+}
+
+button{
+    background-color:#40798C;
+    text-decoration-color: white;
+}
+
+footer{
+    margin-top: auto;
+    background-color: #083D77;
+    text-decoration-color: white;
+    margin-top: auto;
+    position: relative;
+    height: 40%;
+    clear: both;
+}
